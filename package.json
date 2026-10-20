@@ -1,0 +1,10 @@
+{
+  "name": "opencode-subagent-router",
+  "version": "1.0.0",
+  "description": "OpenCode v2 plugin for use-case model routing and rate-limit fallbacks on subagents",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "bun test"
+  }
+}
